@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning golang, javascript, ...
 - 💞️ I’m looking to collaborate on remote
 - 📫 How to reach me with:
-  + my facebook : https://www.facebook.com/GiangHoang.1209/
   + my skype : https://join.skype.com/invite/VceYnJO91TTp
-  + my phone in vietnam: +84: 0819169868
+  + my telegram in vietnam: +84: 0819169868
 
 <!---
 GiangHoang9912/GiangHoang9912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
