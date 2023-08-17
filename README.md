@@ -1,6 +1,4 @@
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
-<codersrank-summary username="YOUR_USERNAME"></codersrank-summary>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GiangHoang9912&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
